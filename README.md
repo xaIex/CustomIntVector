@@ -28,7 +28,7 @@ intVector(int val, int n) – Overloaded constructor, initializes a vector with 
 
 ~intVector() – Releases dynamically allocated memory
 
-Mutators
+### 3.Mutators
 
 void push_back(int) – Adds a new element to the end of the vector, resizing the array
 
