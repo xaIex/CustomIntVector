@@ -1,6 +1,6 @@
 # CustomIntVector
 Implementing a Custom Vector Class
-📖## Problem Description
+## Problem Description
 
 The purpose of this assignment was to create a custom container class, intVector, that mimics the behavior of the C++ Standard Library’s std::vector<int>. The class implements dynamic memory management, element access, and resizing through push operations.
 
