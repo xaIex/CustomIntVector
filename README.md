@@ -12,7 +12,7 @@ Dynamic arrays using raw pointers
 
 Class encapsulation and method design
 
-📂## Files
+📂##Files
 
 main.cpp – Contains the intVector class definition, implementation, and driver code
 
