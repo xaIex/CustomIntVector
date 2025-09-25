@@ -12,19 +12,19 @@ Dynamic arrays using raw pointers
 
 Class encapsulation and method design
 
-📂##Files
+## Files
 
 main.cpp – Contains the intVector class definition, implementation, and driver code
 
-🛠️## Implemented Functions
+## Implemented Functions
 
-Constructors
+### 1.Constructors
 
 intVector() – Default constructor, initializes an empty vector
 
 intVector(int val, int n) – Overloaded constructor, initializes a vector with n copies of val
 
-Destructor
+### 2.Destructor
 
 ~intVector() – Releases dynamically allocated memory
 
@@ -32,7 +32,7 @@ Mutators
 
 void push_back(int) – Adds a new element to the end of the vector, resizing the array
 
-Accessors
+### 3.Accessors
 
 int& at(int& pos) const – Returns a reference to the element at index pos
 
